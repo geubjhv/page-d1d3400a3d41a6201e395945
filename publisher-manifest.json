@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "4fcf2a95696c26e70ebf9e37",
+  "owner": "geubjhv",
+  "repo": "page-d1d3400a3d41a6201e395945",
+  "title": "44F网络",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d1d3400a3d41a6201e395945",
+      "a": "44F网络",
+      "b": "",
+      "entity": "44F网络",
+      "brand": "44F网络",
+      "separator": "",
+      "path": "index.html",
+      "hash": "933a8b8d1c0349b4033020a45b43e91e02548aa6d378ca1cde5a624e862f420e",
+      "content": {
+        "keyword1": "44F网络",
+        "keyword2": "",
+        "primary_entity": "44F网络",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "44F网络提供稳定高速的VPN加速服务，多种套餐供选择，支持多设备在线。立即体验网络加速，下载客户端使用。",
+          "AI_DESCRIPTION": "44F网络提供稳定高速的VPN加速服务，多种套餐供选择，支持多设备在线。立即体验网络加速，下载客户端使用。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n\n\n\n<style>\nbody { font-family: Arial, sans-serif; background: #f8f5f2; color: #333; margin: 0; line-height: 1.7; }\nheader { background: #fff; box-shadow: 0 2px 10px rgba(0,0,0,.05); }\nnav { max-width: 1200px; margin: 0 auto; padding: 1rem 2rem; display: flex; justify-content: space-between; align-items: center; }\n.logo { font-size: 1.8rem; font-weight: bold; color: #ff6b6b; }\nnav a { margin-left: 2rem; color: #333; text-decoration: none; font-weight: 500; }\nmain { max-width: 1200px; margin: 0 auto; padding: 2rem 1rem; }\n.hero { text-align: center; padding: 4rem 1rem; background: linear-gradient(to right, #fff, #f8f5f2); border-radius: 12px; margin-bottom: 3rem; }\n.hero h1 { font-size: 2.5rem; margin-bottom: 1rem; color: #2c3e50; }\n.hero p { font-size: 1.2rem; color: #666; margin-bottom: 2rem; }\n.cta { background: #ff6b6b; color: white; padding: 1rem 2.5rem; border-radius: 8px; text-decoration: none; font-weight: bold; display: inline-block; }\n.cta:hover { background: #e55a5a; }\nsection { margin-bottom: 3rem; background: white; padding: 2rem; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); }\nh2 { color: #ff6b6b; border-bottom: 2px solid #ff6b6b; padding-bottom: 0.5rem; }\nul, ol { padding-left: 1.5rem; }\nli { margin-bottom: 0.8rem; }\n.plans-section { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 2rem; }\n.plans-card { border: 1px solid #eee; border-radius: 10px; padding: 1.5rem; }\n.plans-card.featured { border-color: #ff6b6b; }\n.plans-card h3 { margin-top: 0; }\n.plans-card .price { font-size: 1.8rem; font-weight: bold; color: #ff6b6b; }\n.plans-card .annual { color: #666; font-size: 0.9rem; }\n.plans-card ul { list-style: none; padding: 0; }\n.plans-card li { padding: 0.5rem 0; }\n.plans-card .btn { background: #ff6b6b; color: white; border: none; padding: 0.8rem 1.5rem; border-radius: 6px; cursor: pointer; width: 100%; margin-top: 1rem; }\n.plans-card .btn:hover { background: #e55a5a; }\n.trust { text-align: center; }\n.trust h2 { color: #333; }\n.trust .logos { display: flex; justify-content: center; gap: 3rem; flex-wrap: wrap; }\n.trust .logo { opacity: 0.6; height: 50px; }\n.faq { }\ndetails { margin-bottom: 1.5rem; background: #f9f6f2; padding: 1rem; border-radius: 8px; }\nsummary { font-weight: bold; cursor: pointer; color: #ff6b6b; }\ndetails[open] summary { }\nfooter { text-align: center; padding: 2rem; color: #666; font-size: 0.9rem; }\n</style>\n\n\n<header>\n<nav>\n<div class=\"logo\">44F网络</div>\n<div>\n<a href=\"#intro\">简介</a>\n<a href=\"#scenarios\">场景</a>\n<a href=\"#howto\">操作</a>\n<a href=\"#plans\">套餐</a>\n<a href=\"#faq\">FAQ</a>\n</div>\n</nav>\n</header>\n<main>\n<section class=\"hero\">\n<h1>44F网络</h1>\n<p>稳定高速的网络加速解决方案</p>\n<a href=\"#plans\" class=\"cta\">查看套餐详情</a>\n</section>\n<section id=\"intro\">\n<h2>品牌简介</h2>\n<p>44F网络致力于提供优质的网络加速服务，帮助用户实现稳定高效的网络连接。</p>\n</section>\n<section id=\"scenarios\">\n<h2>使用场景</h2>\n<ul>\n<li>日常上网和信息浏览</li>\n<li>在线视频和流媒体内容</li>\n<li>远程办公和文件传输</li>\n<li>在线游戏加速</li>\n</ul>\n</section>\n<section id=\"howto\">\n<h2>操作说明</h2>\n<ol>\n<li>选择适合您的套餐并完成订阅支付</li>\n<li>从官网下载或使用客户端</li>\n<li>导入您的配置信息</li>\n<li>选择可用节点进行连接</li>\n</ol>\n</section>\n<section id=\"plans\" class=\"plans-section\">\n<h2>套餐对比</h2>\n{{PLANS_HTML}}\n</section>\n<section class=\"trust\">\n<h2>用户信赖</h2>\n{{CLIENTS_HTML}}\n</section>\n<section id=\"faq\">\n<h2>常见问题</h2>\n<details>\n<summary>什么是44F网络？</summary>\n<p>44F网络是专业的VPN网络加速服务，提供多种套餐和稳定线路。</p>\n</details>\n<details>\n<summary>套餐有哪几种？</summary>\n<p>我们有基础版、旗舰版和团队版三种套餐，满足不同用户需求。</p>\n</details>\n<details>\n<summary>如何订阅？</summary>\n<p>用户可通过官网查看详情，选择套餐进行在线支付。</p>\n</details>\n<details>\n<summary>支持哪些设备？</summary>\n<p>支持多台设备同时在线连接，具体配置以套餐为准。</p>\n</details>\n<details>\n<summary>售后服务如何？</summary>\n<p>我们提供专属客户经理和优先工单支持。</p>\n</details>\n</section>\n</main>\n<footer>\n<p>© 44F网络 保留所有权利</p>\n</footer>\n\n",
+          "hash": "05a1f5111c42bbc177556267b11f71f46c3158fb1c1c9b6ecb7962d2baf4ae31",
+          "seo": {
+            "title": "44F网络 - 高速VPN加速器 | 机场订阅与客户端下载",
+            "keywords": "44F网络,VPN加速器,机场,订阅,客户端下载",
+            "description": "44F网络提供稳定高速的VPN加速服务，多种套餐供选择，支持多设备在线。立即体验网络加速，下载客户端使用。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "hpjgllg.cn",
+    "host": "b.hpjgllg.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "hpjgllg.cn",
+      "url": "https://hpjgllg.cn/",
+      "label": "MIMEMI",
+      "apex": "hpjgllg.cn",
+      "kind": null,
+      "identity": "qhwchdra/page-f8be31d60c726f08e5d1711e"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "41f91960a3812c0804c19bfc80cdc5ac808066fd01865df46ccc75bc3bcb97c3",
+    "sitemap.xml": "ecbf3f2c3361a634e96ce642eea25ba822a8467f3353f194e702a0edf763b022",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "22c989a3bb8b94dc772d9efbe5c7c2713212d7e6392420392860ccdc034594b0",
+    "robots.txt": "8a58b0240506e3dcda45fd6e7c9b080496b0ede0f670d0f16e451b2b3218b46a",
+    "a2896593fb337f54762e8f940a96e326.txt": "456901c85f32278b92c6f05e0761828a2e8081287fffc66449af2419b3c74375"
+  },
+  "revision": "00339f1d6d41f7736bed652d6b3c72925709ac5379eaa4d5625369c7eada8f9c"
+}
